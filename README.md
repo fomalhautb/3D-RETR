@@ -4,6 +4,8 @@
 ### **Zai Shi***, **Zhao Meng***, **Yiran Xing**, **Yunpu Ma**, **Roger Wattenhofer**   
 
 ∗The first two authors contribute equally to this work
+
+[[Arxiv](https://arxiv.org/abs/2110.08861)]
  
 ![image](https://user-images.githubusercontent.com/14837467/137624930-96072863-a32b-431f-ab20-985ffd1e51f4.png)
 
