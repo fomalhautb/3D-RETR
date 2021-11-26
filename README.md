@@ -5,7 +5,10 @@
 
 ∗The first two authors contribute equally to this work
 
-[[Arxiv](https://arxiv.org/abs/2110.08861)]
+[[BMVC (with presentation)](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1112.html)]
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1112.pdf)]
+[[Supplementary](https://www.bmvc2021-virtualconference.com/assets/supp/1112_supp.pdf)]
+
  
 ![image](https://user-images.githubusercontent.com/14837467/137624930-96072863-a32b-431f-ab20-985ffd1e51f4.png)
 
