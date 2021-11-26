@@ -12,6 +12,16 @@
  
 ![image](https://user-images.githubusercontent.com/14837467/137624930-96072863-a32b-431f-ab20-985ffd1e51f4.png)
 
+## Citation
+```
+@inproceedings{3d-retr,
+  author    = {Zai Shi, Zhao Meng, Yiran Xing, Yunpu Ma, Roger Wattenhofer},
+  title     = {3D-RETR: End-to-End Single and Multi-View3D Reconstruction with Transformers},
+  booktitle = {BMVC},
+  year      = {2021}
+}
+```
+
 ## Create Environment
 
 ```
