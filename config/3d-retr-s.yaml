@@ -1,0 +1,11 @@
+encoder_dropout: 0.4
+encoder_model: vit_deit_tiny_distilled_patch16_224
+decoder_dropout: 0.4
+decoder_depth: 6
+decoder_heads: 3
+decoder_dim: 192
+decoder_model: cnn
+patch_num: 4
+voxel_size: 32
+num_cnn_layers: 3
+num_resnet_blocks: 2
