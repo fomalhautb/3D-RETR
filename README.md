@@ -1,4 +1,4 @@
-# 3D-RETR: End-to-End Single and Multi-View3D Reconstruction with Transformers (BMVC 2021)
+# 3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers (BMVC 2021)
 
 
 ### **Zai Shi***, **Zhao Meng***, **Yiran Xing**, **Yunpu Ma**, **Roger Wattenhofer**   
